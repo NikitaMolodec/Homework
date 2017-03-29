@@ -1,11 +1,6 @@
-import java.util.AbstractList;
 import java.util.Arrays;
-import java.util.Collection;
 
-/**
- * Created by Никита on 27.03.2017.
- */
-public class OwnArrayList<T> /*extends AbstractList<E>*/ {
+public class OwnArrayList<T> {
 
     private static final int defArrayLength = 10;
 
